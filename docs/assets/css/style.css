@@ -416,9 +416,23 @@ section {
   padding: 60px 0;
 }
 
+.section-bg-about {
+  background-color: #dbe8f1;
+}
+
 .section-bg {
   background-color: #f7fbfe;
 }
+
+.section-bg-service {
+  background-color: #f7fbfe;
+}
+
+.section-bg-contact {
+  background-color: #dbe8f1;
+}
+
+
 
 .section-title {
   text-align: center;
@@ -813,7 +827,7 @@ section {
 #footer {
   color: #444444;
   font-size: 14px;
-  background: #f7fbfe;
+  background: #bbd4e6;
 }
 
 #footer .footer-top {
