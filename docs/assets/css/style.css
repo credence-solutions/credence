@@ -1,16 +1,9 @@
-/**
-* Template Name: Lumia - v4.3.0
-* Template URL: https://bootstrapmade.com/lumia-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #020202;
 }
 
 a {
@@ -82,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #384046;
+  color: #ab0414;
   text-decoration: none;
 }
 
@@ -149,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
   font-size: 16px;
   font-weight: 500;
-  color: #4f5a62;
+  color: #c5250b;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -333,7 +326,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 60vh;
+  height: 50vh;
   background: url("../img/hero-bg.jpg") center center;
   background-size: cover;
   position: relative;
@@ -343,7 +336,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(56, 64, 70, 0.7);
+  background: rgba(156, 189, 174, 0.63);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -360,15 +353,15 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #980a0a;
 }
 
 #hero h1 span {
-  border-bottom: 4px solid #3498db;
+  border-bottom: 5px solid #eadd4e;
 }
 
 #hero h2 {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(20, 95, 234, 0.8);
   margin-bottom: 30px;
   font-size: 24px;
 }
@@ -464,7 +457,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #3498db;
+  background: #d20a0a;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -563,7 +556,7 @@ section {
 }
 
 .about .icon-boxes {
-  padding-top: 10px;
+  padding-top: 50px;
 }
 
 .about .icon-boxes h4 {
@@ -579,7 +572,7 @@ section {
 
 .about .icon-boxes p {
   font-size: 15px;
-  color: #848484;
+  color: #0c4ad6;
 }
 
 
@@ -827,12 +820,12 @@ section {
 #footer {
   color: #444444;
   font-size: 14px;
-  background: #aeb1b3;
+  background: #85a3b7;
 }
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #a29b9b;
+  background: #a7d0c7;
 }
 
 #footer .footer-top .footer-contact {
