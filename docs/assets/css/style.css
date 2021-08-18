@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #ab0414;
+  color: #000000;;
   text-decoration: none;
 }
 
@@ -336,7 +336,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(156, 189, 174, 0.63);
+  background: rgba(56, 64, 70, 0.7);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -353,15 +353,15 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #980a0a;
+  color: #fff;
 }
 
 #hero h1 span {
-  border-bottom: 5px solid #eadd4e;
+  border-bottom: 4px solid #3498db;
 }
 
 #hero h2 {
-  color: rgba(20, 95, 234, 0.8);
+  color: rgba(255, 255, 255, 0.8);
   margin-bottom: 30px;
   font-size: 24px;
 }
@@ -572,7 +572,7 @@ section {
 
 .about .icon-boxes p {
   font-size: 15px;
-  color: #0c4ad6;
+  color: #848484;
 }
 
 
@@ -648,7 +648,7 @@ section {
   font-size: 25px;
   font-weight: 700;
   margin-bottom: 5px;
-  color: #384046;
+  color: #350707;
 }
 
 .contact .info p {
