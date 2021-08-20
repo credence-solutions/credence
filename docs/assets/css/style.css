@@ -2,7 +2,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   color: #020202;
 }
 
@@ -17,7 +17,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: sans-serif;
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -139,7 +139,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins","Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 16px;
   font-weight: 500;
   color: #c5250b;
@@ -367,7 +367,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 400;
   font-size: 13px;
   letter-spacing: 2px;
@@ -410,7 +410,7 @@ section {
 }
 
 .section-bg-about {
-  background-color: #dbe8f1;
+  background-color: #ffffff;
 }
 
 .section-bg {
@@ -422,7 +422,7 @@ section {
 }
 
 .section-bg-contact {
-  background-color: #dbe8f1;
+  background-color: #f7fbfe;
 }
 
 
@@ -430,6 +430,7 @@ section {
 .section-title {
   text-align: center;
   padding-bottom: 30px;
+  color: #075411;
 }
 
 .section-title h2 {
@@ -572,7 +573,7 @@ section {
 
 .about .icon-boxes p {
   font-size: 15px;
-  color: #848484;
+  color: #940707;
 }
 
 
@@ -601,7 +602,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #384046;
+  color: #ec1d1d;
   transition: 0.3s;
 }
 
@@ -844,7 +845,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: sans-serif;
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   color: #131212;
 }
 
