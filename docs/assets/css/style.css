@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #000000;;
+  color: #9f0202;;
   text-decoration: none;
 }
 
@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins","Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 16px;
   font-weight: 500;
-  color: #c5250b;
+  color: #9f0202;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -418,11 +418,11 @@ section {
 }
 
 .section-bg-service {
-  background-color: #f7fbfe;
+  background-color: #8dbde1;
 }
 
 .section-bg-contact {
-  background-color: #f7fbfe;
+  background-color: #ebeddbf7;
 }
 
 
@@ -430,11 +430,11 @@ section {
 .section-title {
   text-align: center;
   padding-bottom: 30px;
-  color: #075411;
+  color: #700855;
 }
 
 .section-title h2 {
-  font-size: 32px;
+  font-size: 35px;
   font-weight: 600;
   margin-bottom: 20px;
   padding-bottom: 20px;
@@ -458,7 +458,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #d20a0a;
+  background: #1041ef;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -590,7 +590,7 @@ section {
 .services .icon-box i {
   float: left;
   color: #3498db;
-  font-size: 40px;
+  font-size: 35px;
   line-height: 0;
 }
 
@@ -602,7 +602,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #ec1d1d;
+  color: #8f3206;
   transition: 0.3s;
 }
 
@@ -826,7 +826,7 @@ section {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #a7d0c7;
+  background: #b8ffef;
 }
 
 #footer .footer-top .footer-contact {
@@ -869,7 +869,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #3498db;
+  color: #0c08fb;
   font-size: 18px;
   line-height: 1;
 }
@@ -889,6 +889,7 @@ section {
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
+  font-size: 14px;
  }
 
 #footer .footer-top .footer-links ul a:hover {
