@@ -421,6 +421,10 @@ section {
   background-color: #8dbde1;
 }
 
+.section-bg-portfolio {
+  background-color: #e6f0987a;
+}
+
 .section-bg-contact {
   background-color: #ebeddbf7;
 }
@@ -617,6 +621,60 @@ section {
 }
 
 .services .icon-box:hover h4 a {
+  color: #3498db;
+}
+
+
+
+/*--------------------------------------------------------------
+# Portfolio
+--------------------------------------------------------------*/
+.portfolio .icon-box {
+  padding: 30px;
+  border-radius: 40px;
+  background: #fff;
+  transition: ease-in-out 0.3s;
+}
+
+.portfolio .icon-box i {
+  float: left;
+  color: #3498db;
+  font-size: 35px;
+  line-height: 0;
+}
+
+.portfolio .icon-box h4 {
+  margin-left: 70px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.portfolio .icon-box h3 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #8b090c;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.portfolio .icon-box h4 a {
+  color: #090cf4;
+  transition: 0.3s;
+}
+
+.portfolio .icon-box p {
+  margin-left: 5px;
+  line-height: 30px;
+  font-size: 16px;
+}
+}
+
+.portfolio .icon-box:hover {
+  box-shadow: 0px 2px 22px rgba(0, 0, 0, 0.08);
+}
+
+.portfolio .icon-box:hover h4 a {
   color: #3498db;
 }
 
